@@ -6,3 +6,4 @@
 ### 目录
 
 - [工厂模式](https://github.com/fanxiaopa/blog/issues)
+- [收藏](https://github.com/fanxiaopa/blog/issues/2)
